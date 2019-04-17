@@ -1,0 +1,2 @@
+2019-04-17 11:44:55.392 12139-12139/edu.washington.jonl1138.activityspy I/MainActivity: on-create event fired
+2019-04-17 11:45:00.788 12139-12139/edu.washington.jonl1138.activityspy E/MainActivity: We're going down, Captain!
